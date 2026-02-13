@@ -14,7 +14,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-Analista de Desenvolvimento de Software Sênior com mais de 9 anos de experiência, especializado em **arquitetura ERP TOTVS Protheus**, integrações corporativas e automação.
+Analista de Desenvolvimento de Software Sênior com mais de 10 anos de experiência, especializado em **arquitetura ERP TOTVS Protheus**, integrações corporativas e automação.
 
 Atuo projetando soluções escaláveis e de alta performance utilizando **ADVPL**, **TLPP** e frameworks modernos do Protheus, conectando regras de negócio, integrações financeiras e arquitetura técnica para evolução contínua de ambientes ERP.
 
