@@ -88,15 +88,7 @@ Minha missão é evoluir ecossistemas Protheus através de:
 ## 📊 Métricas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Brunostng&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brunostng&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Brunostng&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
