@@ -1,58 +1,109 @@
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Brunostng)
- [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brunosantanag)
- [![Outlook](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=microsoft&logoColor=white)](mailto:brunosantanag@outlook.com)
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Brunostng.visitor-badge)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat\&logo=Github\&logoColor=white)](https://github.com/Brunostng)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat\&logo=Linkedin\&logoColor=white)](https://www.linkedin.com/in/brunosantanag)
+[![Outlook](https://img.shields.io/badge/-Outlook-blue?style=flat\&logo=microsoft\&logoColor=white)](mailto:brunosantanag@outlook.com)
+![Profile views](https://komarev.com/ghpvc/?username=Brunostng&style=flat&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/Brunostng?style=social)
 
-## 👋 Hi I'm Bruno Santana!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&center=true&vCenter=true&width=950&lines=Bruno+Santana+Gomes;Arquiteto+ERP+TOTVS+Protheus;ADVPL+%7C+TLPP+%7C+MVC+%7C+Integra%C3%A7%C3%B5es+REST%2FSOAP;Integra%C3%A7%C3%B5es+Financeiras+%7C+CNAB+%7C+Boletos+API" />
+</p>
+
+---
+
+# 👋 Bruno Santana Gomes | Arquiteto ERP TOTVS Protheus
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-I am a Software Development Analyst ERP Protheus - TOTVS
+Analista de Desenvolvimento de Software Sênior com mais de 9 anos de experiência, especializado em **arquitetura ERP TOTVS Protheus**, integrações corporativas e automação.
 
-I currently work at Loop Consultoria, developing customizations and projects | ADVPL | MVC | SOAP | REST |
+Atuo projetando soluções escaláveis e de alta performance utilizando **ADVPL**, **TLPP** e frameworks modernos do Protheus, conectando regras de negócio, integrações financeiras e arquitetura técnica para evolução contínua de ambientes ERP.
 
-I dedicate my free time to develop knowledge of frameworks for Front-End
+---
 
-## 💻 Technologies & Tools
-I work effectively using the following technologies
+## 💼 Skills Principais
+
 <p align="center">
-<img src="https://img.shields.io/badge/advpl%20-%23000000.svg?&style=for-the-badge&logo=advpl&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/sql server%20-%23CC2927.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/oracle%20-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/ADVPL-000000?style=for-the-badge&logo=advpl&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/TLPP-4B0082?style=for-the-badge&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/VT100-1F6FEB?style=for-the-badge&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/PO--UI-E20074?style=for-the-badge&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" height="25"/>
 </p>
 
-## 📖 Studying
-In search of improving my knowledge in the following technologies, prioritizing PO-UI component library based on Angular
+---
+
+## 🧠 Arquitetura e Especialização Protheus
+
+✔ Domínio dos módulos BackOffice, Gestão de Contratos, Gestão de Serviços e ACD (SIGAACD) <br>
+✔ Arquitetura avançada do ERP Protheus <br>
+✔ Interfaces ADVPL, MVC, PO-UI <br>
+✔ Integrações REST API e WebService SOAP <br>
+✔ Desenvolvimento para coletores TELNET / VT100 <br>
+✔ Automação de Workflow e filas de e-mail <br>
+✔ Upgrade de releases e gestão de ambientes <br>
+✔ Metodologias Ágeis (Scrum / Kanban) <br>
+
+
+---
+
+## 🔗 Integrações Enterprise
+
+Experiência com integrações corporativas, financeiras e serviços externos:
+
+* Salesforce CRM
+* SAP Concur (FIS)
+* APIs Bancárias – Registro de Boletos e integrações financeiras
+* Layouts CNAB 240 / 400
+* E-Notas
+* Paytrack
+* PlanMob
+* WebServices Municipais
+* Integrações SIGATMS
+
+---
+
+## 🚀 Projetos Protheus com IA & Automação
+
+🔹 MCP Protheus Expert – Assistente de IA para o ecossistema Protheus <br>
+🔹 Automação de Code Review para ADVPL/TLPP <br>
+🔹 Ferramentas inteligentes para desenvolvedores Protheus <br>
+🔹 Experimentos conectando **ERP + IA + Automação** <br>
+
+---
+
+## 🏗️ Visão de Arquitetura
+
+Desenvolvimento ERP vai além de customizações — exige visão arquitetural, padrões de código e estratégias de automação.
+
+Minha missão é evoluir ecossistemas Protheus através de:
+
+* Ferramentas inteligentes para desenvolvedores
+* Fluxos orientados por IA
+* Interfaces modernas com PO-UI
+* Performance, escalabilidade e qualidade técnica
+
+---
+
+## 📊 Métricas do GitHub
+
 <p align="center">
-<img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
-<img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=black" height="25"/>
-<img src="https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=black" height="25"/>
-<img src="https://img.shields.io/badge/poui%20-%23E20074.svg?&style=for-the-badge&logo=poui&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" height="25"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=Brunostng&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
 </p>
 
-## ⭐ GitHub Stats
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Brunostng&show_icons=true&theme=dark&line_height=27">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Brunostng&theme=dark&hide_border=true&cache_seconds=1800" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunostng&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" />
+</p>
+
+
+---
 
 <!--
-**Brunostng/Brunostng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+PERFIL ARQUITETO ERP TOTVS PROTHEUS
+Focado em arquitetura corporativa, automação e integrações financeiras.
 -->
-
