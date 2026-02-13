@@ -45,7 +45,6 @@ Atuo projetando soluções escaláveis e de alta performance utilizando **ADVPL*
 ✔ Upgrade de releases e gestão de ambientes <br>
 ✔ Metodologias Ágeis (Scrum / Kanban) <br>
 
-
 ---
 
 ## 🔗 Integrações Enterprise
@@ -89,21 +88,15 @@ Minha missão é evoluir ecossistemas Protheus através de:
 ## 📊 Métricas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brunostng&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Brunostng&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Brunostng&theme=dark&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brunostng&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunostng&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Brunostng&layout=compact&theme=dark&hide_border=true" />
 </p>
-
 
 ---
-
-<!--
-PERFIL ARQUITETO ERP TOTVS PROTHEUS
-Focado em arquitetura corporativa, automação e integrações financeiras.
--->
