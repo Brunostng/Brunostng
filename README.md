@@ -36,7 +36,7 @@ Atuo projetando soluções escaláveis e de alta performance utilizando **ADVPL*
 
 ## 🧠 Arquitetura e Especialização Protheus
 
-✔ Domínio dos módulos BackOffice, Gestão de Contratos, Gestão de Serviços e ACD (SIGAACD) <br>
+✔ Domínio dos módulos BackOffice, Gestão de Contratos, Gestão de Serviços. Atuação e suporte efetivo nos módulos Controle de Lojas, Easy Import Control, Inspeção de Entrada, Gestão de Transportes e Automação Controlede Dados<br>
 ✔ Arquitetura avançada do ERP Protheus <br>
 ✔ Interfaces ADVPL, MVC, PO-UI <br>
 ✔ Integrações REST API e WebService SOAP <br>
