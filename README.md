@@ -14,7 +14,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-Analista de Desenvolvimento de Software Sênior com mais de 10 anos de experiência, especializado em **arquitetura ERP TOTVS Protheus**, integrações corporativas e automação.
+Analista de Desenvolvimento de Software Sênior, com mais de 10 anos de experiência, especializado em **arquitetura ERP TOTVS Protheus**, integrações corporativas e automação inteligente.
 
 Atuo projetando soluções escaláveis e de alta performance utilizando **ADVPL**, **TLPP** e frameworks modernos do Protheus, conectando regras de negócio, integrações financeiras e arquitetura técnica para evolução contínua de ambientes ERP.
 
@@ -23,7 +23,7 @@ Atuo projetando soluções escaláveis e de alta performance utilizando **ADVPL*
 ## 💼 Skills Principais
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ADVPL-000000?style=for-the-badge&logo=advpl&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/ADVPL-000000?style=for-the-badge&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/TLPP-4B0082?style=for-the-badge&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/VT100-1F6FEB?style=for-the-badge&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/PO--UI-E20074?style=for-the-badge&logoColor=white" height="25"/>
@@ -36,14 +36,15 @@ Atuo projetando soluções escaláveis e de alta performance utilizando **ADVPL*
 
 ## 🧠 Arquitetura e Especialização Protheus
 
-✔ Domínio dos módulos BackOffice, Gestão de Contratos, Gestão de Serviços. Atuação e suporte efetivo nos módulos Controle de Lojas, Easy Import Control, Inspeção de Entrada, Gestão de Transportes e Automação Controlede Dados<br>
-✔ Arquitetura avançada do ERP Protheus <br>
-✔ Interfaces ADVPL, MVC, PO-UI <br>
-✔ Integrações REST API e WebService SOAP <br>
-✔ Desenvolvimento para coletores TELNET / VT100 <br>
-✔ Automação de Workflow e filas de e-mail <br>
-✔ Upgrade de releases e gestão de ambientes <br>
-✔ Metodologias Ágeis (Scrum / Kanban) <br>
+✔ Domínio dos módulos BackOffice, Gestão de Contratos e Gestão de Serviços  
+✔ Atuação efetiva nos módulos Controle de Lojas, Easy Import Control, Inspeção de Entrada, Gestão de Transportes e Automação de Controle de Dados  
+✔ Arquitetura avançada do ERP Protheus  
+✔ Interfaces ADVPL, MVC e PO-UI  
+✔ Integrações REST API e WebServices SOAP  
+✔ Desenvolvimento para coletores TELNET / VT100  
+✔ Automação de workflow e filas de e-mail  
+✔ Upgrade de releases e gestão de ambientes  
+✔ Metodologias Ágeis (Scrum / Kanban)
 
 ---
 
@@ -51,24 +52,24 @@ Atuo projetando soluções escaláveis e de alta performance utilizando **ADVPL*
 
 Experiência com integrações corporativas, financeiras e serviços externos:
 
-* Salesforce CRM
-* SAP Concur (FIS)
-* APIs Bancárias – Registro de Boletos e integrações financeiras
-* Layouts CNAB 240 / 400
-* E-Notas
-* Paytrack
-* PlanMob
-* WebServices Municipais
+* Salesforce CRM  
+* SAP Concur (FIS)  
+* APIs bancárias — registro de boletos e integrações financeiras  
+* Layouts CNAB 240 / 400  
+* E-Notas  
+* Paytrack  
+* PlanMob  
+* WebServices municipais  
 * Integrações SIGATMS
 
 ---
 
 ## 🚀 Projetos Protheus com IA & Automação
 
-🔹 MCP Protheus Expert – Assistente de IA para o ecossistema Protheus <br>
-🔹 Automação de Code Review para ADVPL/TLPP <br>
-🔹 Ferramentas inteligentes para desenvolvedores Protheus <br>
-🔹 Experimentos conectando **ERP + IA + Automação** <br>
+🔹 MCP Protheus Expert — Assistente de IA para o ecossistema Protheus  
+🔹 Automação de Code Review para ADVPL/TLPP  
+🔹 Ferramentas inteligentes para desenvolvedores Protheus  
+🔹 Experimentos conectando **ERP + IA + Automação**
 
 ---
 
@@ -78,9 +79,9 @@ Desenvolvimento ERP vai além de customizações — exige visão arquitetural, 
 
 Minha missão é evoluir ecossistemas Protheus através de:
 
-* Ferramentas inteligentes para desenvolvedores
-* Fluxos orientados por IA
-* Interfaces modernas com PO-UI
+* Ferramentas inteligentes para desenvolvedores  
+* Fluxos orientados por IA  
+* Interfaces modernas com PO-UI  
 * Performance, escalabilidade e qualidade técnica
 
 ---
