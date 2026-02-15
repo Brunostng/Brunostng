@@ -5,16 +5,16 @@
 ![GitHub followers](https://img.shields.io/github/followers/Brunostng?style=social)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&center=true&vCenter=true&width=950&lines=Bruno+Santana+Gomes;Especialista+ERP+TOTVS+Protheus;ADVPL+%7C+TLPP+%7C+MVC+%7C+Integra%C3%A7%C3%B5es+REST%2FSOAP;Integra%C3%A7%C3%B5es+Financeiras+%7C+CNAB+%7C+Boletos+API" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&center=true&vCenter=true&width=950&lines=Bruno+Santana+Gomes;Especialista+em+Desenvolvimento +de+Software +ERP+TOTVS+Protheus;ADVPL+%7C+TLPP+%7C+MVC+%7C+Integra%C3%A7%C3%B5es+REST%2FSOAP;Integra%C3%A7%C3%B5es+Financeiras+%7C+CNAB+%7C+Boletos+API" />
 </p>
 
 ---
 
-# 👋 Bruno Santana Gomes | Especialista ERP TOTVS Protheus
+# 👋 Bruno Santana Gomes | Especialista em Desenvolvimento de Software
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-Analista de Desenvolvimento de Software Sênior, com mais de 10 anos de experiência, especializado em **arquitetura ERP TOTVS Protheus**, integrações corporativas e automação inteligente.
+Especialista em Desenvolvimento de Software, com mais de 10 anos de experiência, **arquitetura ERP TOTVS Protheus**, integrações corporativas e automação inteligente.
 
 Atuo projetando soluções escaláveis e de alta performance utilizando **ADVPL**, **TLPP** e frameworks modernos do Protheus, conectando regras de negócio, integrações financeiras e arquitetura técnica para evolução contínua de ambientes ERP.
 
