@@ -1,22 +1,24 @@
-[![Github](https://img.shields.io/badge/-Github-000?style=flat\&logo=Github\&logoColor=white)](https://github.com/Brunostng)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat\&logo=Linkedin\&logoColor=white)](https://www.linkedin.com/in/brunosantanag)
-[![Outlook](https://img.shields.io/badge/-Outlook-blue?style=flat\&logo=microsoft\&logoColor=white)](mailto:brunosantanag@outlook.com)
-![Profile views](https://komarev.com/ghpvc/?username=Brunostng&style=flat&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/Brunostng?style=social)
+[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Brunostng)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brunosantanag)
+[![Outlook](https://img.shields.io/badge/-Outlook-blue?style=for-the-badge&logo=microsoft&logoColor=white)](mailto:brunosantanag@outlook.com)
+![Profile views](https://komarev.com/ghpvc/?username=Brunostng&style=for-the-badge&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/Brunostng?style=for-the-badge)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&center=true&vCenter=true&width=950&lines=Bruno+Santana+Gomes;Especialista+em+Desenvolvimento+de+Software+ERP+TOTVS+Protheus;ADVPL+%7C+TLPP+%7C+MVC+%7C+Integra%C3%A7%C3%B5es+REST%2FSOAP;Integra%C3%A7%C3%B5es+Financeiras+%7C+CNAB+%7C+Boletos+API" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&center=true&vCenter=true&width=950&lines=Bruno+Santana+Gomes;Especialista+ERP+TOTVS+Protheus;Arquitetura%2C+Performance+e+Integra%C3%A7%C3%B5es;ADVPL+%7C+TLPP+%7C+MVC+%7C+PO-UI;Integra%C3%A7%C3%B5es+REST+%7C+SOAP+%7C+Servi%C3%A7os+Corporativos" />
 </p>
 
 ---
 
-# 👋 Bruno Santana Gomes | Especialista em Desenvolvimento de Software
+# 👋 Bruno Santana Gomes | Especialista ERP TOTVS Protheus
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-Especialista em Desenvolvimento de Software, com mais de 10 anos de experiência, **arquitetura ERP TOTVS Protheus**, integrações corporativas e automação inteligente.
+Especialista em Desenvolvimento e Arquitetura para ERP TOTVS Protheus, com mais de 10 anos de experiência em ambientes corporativos.
 
-Atuo projetando soluções escaláveis e de alta performance utilizando **ADVPL**, **TLPP** e frameworks modernos do Protheus, conectando regras de negócio, integrações financeiras e arquitetura técnica para evolução contínua de ambientes ERP.
+Atuação em ADVPL e TLPP, arquitetura MVC, integrações corporativas e rotinas críticas que exigem performance e estabilidade.
+
+Também aplico automação como apoio ao desenvolvimento, incluindo análise de código e code review automatizado dentro do ecossistema Protheus.
 
 ---
 
@@ -60,29 +62,29 @@ Experiência com integrações corporativas, financeiras e serviços externos:
 * Paytrack  
 * PlanMob  
 * WebServices municipais  
-* Integrações SIGATMS
+* Integrações SIGATMS  
 
 ---
 
 ## 🚀 Projetos Protheus com IA & Automação
 
-🔹 MCP Protheus Expert — Assistente de IA para o ecossistema Protheus  
+🔹 MCP Protheus Expert — Assistente voltado ao ecossistema Protheus  
 🔹 Automação de Code Review para ADVPL/TLPP  
 🔹 Ferramentas inteligentes para desenvolvedores Protheus  
-🔹 Experimentos conectando **ERP + IA + Automação**
+🔹 Aplicação prática de IA como suporte técnico ao desenvolvimento Protheus  
 
 ---
 
 ## 🏗️ Visão de Arquitetura
 
-Desenvolvimento ERP vai além de customizações — exige visão arquitetural, padrões de código e estratégias de automação.
+Desenvolvimento ERP exige visão arquitetural, padronização de código e atenção à performance.
 
-Minha missão é evoluir ecossistemas Protheus através de:
+Foco em evolução técnica de ambientes Protheus através de:
 
-* Ferramentas inteligentes para desenvolvedores  
-* Fluxos orientados por IA  
+* Ferramentas de apoio ao desenvolvimento  
+* Automação aplicada ao processo técnico  
 * Interfaces modernas com PO-UI  
-* Performance, escalabilidade e qualidade técnica
+* Performance, estabilidade e qualidade de código  
 
 ---
 
